@@ -2,7 +2,7 @@
 
 Welcome to this working repo by the Fortinet Public Cloud team in EMEA. This is a work in progress. Things can break and will break. If you notice a bug, have a question or want to contribute: open an issue or create a pull request.
 
-For stable versions of this work visit out official [Fortinet GitHub repository](https://github.com/fortinet). For more in-depth documentation you can head over to the [Fortinet documentation website](https://docs.fortinet.com/).
+For *stable versions* of this work visit out official [Fortinet GitHub repository](https://github.com/fortinet). For more in-depth documentation you can head over to the [Fortinet documentation website](https://docs.fortinet.com/).
 
 # Getting started
 
