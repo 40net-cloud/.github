@@ -12,3 +12,4 @@ If you want to deploy a Fortinet product into public cloud you can find resource
 - [AWS](https://github.com/40net-cloud/fortinet-aws-solutions)
 - [Google Cloud](https://github.com/40net-cloud/fortinet-gcp-solutions)
 - [Oracle Cloud](https://github.com/40net-cloud/fortinet-oci-solutions)
+- [Alibaba Cloud](https://github.com/40net-cloud/fortinet-alibabacloud-solutions)
